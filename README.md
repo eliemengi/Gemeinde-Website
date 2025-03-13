@@ -40,7 +40,7 @@ Check it out here: [Gemeinde Website](https://eliemengi.github.io/Gemeinde-Websi
 ## 📌 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/gemeinde-website.git
+   git clone https://eliemengi.github.io/Gemeinde-Website/
    ```  
 2. Navigate to the project folder:  
    ```bash
