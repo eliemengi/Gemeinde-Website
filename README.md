@@ -59,7 +59,7 @@ Contributions are welcome! If you have ideas for improvements, feel free to fork
 
 ## 📬 Contact  
 💌 **Email:** eliemengi2@gmail.com 
-💻 **GitHub:** [YourProfile](https://github.com/yeliemengi)  
+💻 **GitHub:** [eliemengi](https://github.com/yeliemengi)  
 📍 **Location:** YBruchsal, Deutschland  
 
 ---
