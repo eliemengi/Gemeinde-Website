@@ -58,9 +58,9 @@ Check it out here: [Gemeinde Website](https://eliemengi.github.io/Gemeinde-Websi
 Contributions are welcome! If you have ideas for improvements, feel free to fork the project and submit a pull request.  
 
 ## 📬 Contact  
-💌 **Email:** your.email@example.com  
-💻 **GitHub:** [YourProfile](https://github.com/yourusername)  
-📍 **Location:** Your City, Country  
+💌 **Email:** eliemengi2@gmail.com 
+💻 **GitHub:** [YourProfile](https://github.com/yeliemengi)  
+📍 **Location:** YBruchsal, Deutschland  
 
 ---
 
