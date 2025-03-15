@@ -1,4 +1,6 @@
-Hier ist eine professionelle README für die Gemeinde-Website mit klarem Aufbau und einem professionellen Ton:  
+This is a professional README for the municipality website with a clear structure and a professional tone.
+
+  
 
 ---
 
@@ -61,7 +63,3 @@ Contributions are welcome! If you have ideas for improvements, feel free to fork
 💌 **Email:** eliemengi2@gmail.com 
 💻 **GitHub:** [eliemengi](https://github.com/yeliemengi)  
 📍 **Location:** Bruchsal, Deutschland  
-
----
-
-Diese README ist professionell, klar und ansprechend für HR, potenzielle Arbeitgeber oder Mitwirkende. 🚀 Falls du Anpassungen möchtest, sag Bescheid!
